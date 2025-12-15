@@ -67,4 +67,7 @@ python3 client1.py
 3.  **Receiver:** Calculates the CRC of the received data, compares it with the sent checksum, and displays: `Status: DATA CORRUPTED`.
 
 ##  License
-This project is created for the Data Communication course assignment.
+This project is created for the Data Communication course assignment. 
+
+TALHA ÇAĞRI TERZİOĞLU - 2010205022
+BEDİRHAN ENES ÖZCAN   - 2010205063
