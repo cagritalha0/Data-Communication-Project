@@ -69,5 +69,5 @@ python3 client1.py
 ##  License
 This project is created for the Data Communication course assignment. 
 
-## TALHA ÇAĞRI TERZİOĞLU - 2010205022
-## BEDİRHAN ENES ÖZCAN   - 2010205063
+1. TALHA ÇAĞRI TERZİOĞLU - 2010205022
+2. BEDİRHAN ENES ÖZCAN   - 2010205063
